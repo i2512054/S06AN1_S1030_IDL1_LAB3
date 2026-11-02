@@ -33,4 +33,6 @@ Acceder a la Interfaz Gráfica:
 
 Abrir en el navegador web: http://localhost:8089 o http://TU_IP:8089
 
-
+## Autores
+| <sub>ESCOBEDO PUMACAYO, PIER JONATHAN</sub> | <sub>HUAMÁN MORIANO, ERICK OLIVER</sub> | <sub>JOSÉ HUGO SARAVIA CHÁVEZ</sub> |
+| :---: | :---: | :---: |
